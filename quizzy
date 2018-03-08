@@ -1,0 +1,19 @@
+1. Polymorphism means "the condition of occurring in several different forms."
+
+
+2. An example of applying polymorphism in Java is when an object can be more than one thing - i.e. a Fighter class can inherit from a parent Hero class, so that object is both a Fighter and a Hero. A Fighter IS-A Hero.
+
+
+3. We can use polymorphism to refer to children classes by their parent class, meaning we can perform the same functions with many different children of the same parent. The common methods which each of the children share can be located once within the parent class. An object can only be accessed by a reference variable, which can only be on one type. Polymorphism allows us to access an object by it's declared type or any subtype of that type.
+
+4. I couldn't find anything that explicitly answered this question, but from what i've gleaned i'd say: as many as you want? But that would quickly get silly and messy?
+
+5.
+
+6. Composition is designating a class object as something that belongs to another class object. For instance, a Car class HAS-A GearStick class, a Human class HAS-A Heart class. It is combining classes to compose more complex classes.
+
+7.
+
+8.
+
+9. The behaviours are destroyed.
